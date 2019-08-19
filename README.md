@@ -10,7 +10,7 @@ cd webdav
 ```
 ## Usage:
 ```
-python2 webdav.py
+python2 webdav.py [Target Site]
 ```
 
 ## Contact Me:
